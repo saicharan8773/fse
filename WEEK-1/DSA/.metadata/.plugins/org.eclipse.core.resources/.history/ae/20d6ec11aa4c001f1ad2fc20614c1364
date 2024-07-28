@@ -1,0 +1,5 @@
+ackage inventory;
+
+public interface IUpdateProduct {
+
+}
